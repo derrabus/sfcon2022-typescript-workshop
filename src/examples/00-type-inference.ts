@@ -19,4 +19,5 @@ myLuckyNumbers.push(43);
 
 console.log(myLuckyNumbers);
 
+// Tell TS that this is a module.
 export {};
