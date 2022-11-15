@@ -63,3 +63,5 @@ console.log(typeof myCart);
 
 // However, we can get the name of the constructor function at runtime!
 console.log(myCart.constructor.name);
+
+export {};
